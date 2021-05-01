@@ -1,9 +1,9 @@
-#Code Refactor Assignment
+# Code Refactor Assignment
 
-## The task
+## The Task
 We started with an existing code. We took this code and improved it but we did not change what the code actually does. The goal is to make the website more accessible.
 
-##Accepted Criteria
+## Accepted Criteria
 When source code is viewed you find
 semantic HTML elements
 When viewing element sturcture 
@@ -15,10 +15,10 @@ They are in sequential order
 When viewing the title element
 There is a descriptive, concise title.
 
-##Example of site
+## Example of site
 We given a mock up of how the site should appear ("assets\images\01-html-css-git-homework-demo.png")
 
-##Grading Criteria
+## Grading Criteria
 ### Technical Acceptance Criteria: 40%
 
 * Satisfies all of the preceding acceptance criteria plus the following code improvements:
